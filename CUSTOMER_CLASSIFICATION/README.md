@@ -15,3 +15,8 @@ Task is to build a classification model using Logistic Regression to predict whe
 
 [![cc1](https://github.com/v-rao/Machine-Learning-using-Python/raw/master/CustomerSegmentationUsingRFM/images/segmentation2.jpg "cc1")](https://github.com/v-rao/Machine-Learning-using-Python/raw/master/CustomerSegmentationUsingRFM/images/segmentation2.jpg "cc1")
 
+## **3.Data Description**
+
+dataset containing all the necessary information about the customers like their occupation, family income, gender, region, balance transfer, children, etc.Also included in the dataset is the column Revenue_Grid which classifies the customers into high net worth customers (1) and low net worth customers (2).
+
+### **3.1 Data Statistics**
