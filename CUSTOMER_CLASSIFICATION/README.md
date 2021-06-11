@@ -13,7 +13,7 @@ Retail banking institution is going to float a stock trading facility for their 
 One issue is that only about 10% of the customers do enough trades for earnings after discounts to be profitable.The company wants to figure out, which are those 10% customers so that it can selectively offer them a discount.The marketing department want to supplement their campaigns with a more proactive approach.Dataset contains past customers details and their status (Revenue Grid 1 or 2).
 Task is to build a classification model using Logistic Regression to predict whether a customer belongs to a high net worth or low net worth group.This model can  be evaluated using F1 Score.
 
-[![cc1](https://github.com/v-rao/Machine-Learning-using-Python/raw/master/CustomerSegmentationUsingRFM/images/segmentation2.jpg "cc1")](https://github.com/v-rao/Machine-Learning-using-Python/raw/master/CustomerSegmentationUsingRFM/images/segmentation2.jpg "cc1")
+[![cc2](https://raw.githubusercontent.com/niranjan1216/Machine_Learning_Foundation/main/CUSTOMER_CLASSIFICATION/images/clustering2.png "cc2")](https://raw.githubusercontent.com/niranjan1216/Machine_Learning_Foundation/main/CUSTOMER_CLASSIFICATION/images/clustering2.png "cc2")
 
 ## **3.Data Description**
 
