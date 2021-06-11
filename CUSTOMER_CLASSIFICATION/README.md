@@ -1,6 +1,6 @@
 # Customer Classification Using Logistic Regression
 
-[![cc](https://github.com/v-rao/Machine-Learning-using-Python/raw/master/CustomerSegmentationUsingRFM/images/clustering.png "cc")](https://github.com/v-rao/Machine-Learning-using-Python/raw/master/CustomerSegmentationUsingRFM/images/clustering.png "cc")
+[![cc](https://raw.githubusercontent.com/niranjan1216/Machine_Learning_Foundation/main/CUSTOMER_CLASSIFICATION/images/clustering1.png "cc")](https://raw.githubusercontent.com/niranjan1216/Machine_Learning_Foundation/main/CUSTOMER_CLASSIFICATION/images/clustering1.png "cc")
 
 
 ## **1. Introduction**
